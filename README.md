@@ -18,6 +18,8 @@ A python Flask example using Cloud Firestore as a backend.
 | 2025-02-18 | Initial creation | 
 
 ## Developer Notes
-* fpm-
+* fpm-flask-example in Firebase
 
 ## References
+
+* [firebase console](https://console.firebase.google.com/u/0/project/fpm-flask-example/settings/serviceaccounts/adminsdk)
