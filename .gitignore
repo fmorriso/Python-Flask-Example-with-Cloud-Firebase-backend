@@ -167,3 +167,4 @@ cython_debug/
 /.idea/modules.xml
 /.idea/misc.xml
 desktop.ini
+/fpm-flask-example-firebase-key.json
